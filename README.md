@@ -11,7 +11,7 @@ To predict future stock prices using LSTM (Long Short-Term Memory) based on past
 
 ---
 
-## 🛠 Tools & Technologies Used
+##  Tools & Technologies Used
 
 - Python
 - Jupyter Notebook
