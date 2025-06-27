@@ -1,4 +1,4 @@
-# Stock-Price-Prediction-LSTM
+# Stock-Price-Prediction-LSTM-Project
 #  Stock Price Trend Prediction using LSTM
 
 This project uses deep learning (LSTM) to forecast stock price trends based on historical data from Yahoo Finance. It was developed as part of a 2-week internship project to explore financial time series prediction using neural networks.
