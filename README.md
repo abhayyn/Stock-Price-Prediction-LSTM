@@ -39,7 +39,7 @@ To predict future stock prices using LSTM (Long Short-Term Memory) based on past
 
 ##  Sample Output
 
-![Predicted vs Actual](assets/output_graph.png)  
+![Predicted vs Actual] 
 *Predicted vs Actual stock price plot*
 
 ---
